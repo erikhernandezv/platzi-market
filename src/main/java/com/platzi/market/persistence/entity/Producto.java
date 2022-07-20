@@ -50,7 +50,7 @@ public class Producto {
         this.nombre = nombre;
     }
 
-    public int getIdCategoria() {
+    public Integer getIdCategoria() {
         return idCategoria;
     }
 
@@ -74,7 +74,7 @@ public class Producto {
         this.precioVenta = precioVenta;
     }
 
-    public int getCantidadStock() {
+    public Integer getCantidadStock() {
         return cantidadStock;
     }
 
